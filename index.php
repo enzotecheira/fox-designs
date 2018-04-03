@@ -85,6 +85,20 @@
 						</div>
 					</div>
 				</div>
+				<div class="tecno">
+					<img src="./images/ico/html5.png">
+					<img src="./images/ico/php.png">
+					<img src="./images/ico/photoshop.png">
+					<img src="./images/ico/mysql.png">
+					<img src="./images/ico/css3.png">
+					<img src="./images/ico/magento.png">
+					<img src="./images/ico/illustrator.svg">
+					<img src="./images/ico/wordpress.png">
+					<img src="./images/ico/lightroom.png">
+					<img src="./images/ico/js.png">
+					<img src="./images/ico/analytics.png">
+					<img src="./images/ico/adword.png">
+				</div>
 			</section>
 		<!-- ABOUT US END -->
 		<!-- SERVICIOS -->
